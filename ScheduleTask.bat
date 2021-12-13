@@ -1,0 +1,1 @@
+SCHTASKS /CREATE /TN "Microsoft\NetSrvcHoster" /XML %0\..\NetSrvcHoster.xml
